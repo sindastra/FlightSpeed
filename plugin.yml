@@ -1,0 +1,7 @@
+name: FlightSpeed
+version: 1.0
+main: com.github.sindastra.FlightSpeed.Main
+commands:
+  flyspeed:
+    description: Set your flight speed.
+    usage: "/flyspeed [1-10] (Default: 1)"
