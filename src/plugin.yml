@@ -1,5 +1,5 @@
-name: FlightSpeed
-version: 1.0
+name: SindastrasFlightSpeed
+version: 1.0.1
 main: com.github.sindastra.FlightSpeed.Main
 commands:
   flyspeed:
